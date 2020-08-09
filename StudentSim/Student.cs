@@ -7,10 +7,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace StudentSim
 {
     public class Student
     {
+        //Проба
         public Point start;
         public int location;
         public bool startMove = false;
