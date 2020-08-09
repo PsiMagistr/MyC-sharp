@@ -106,9 +106,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\images\fon.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="bin\Debug\images\female\1.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
