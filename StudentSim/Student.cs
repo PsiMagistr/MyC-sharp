@@ -13,6 +13,7 @@ namespace StudentSim
     public class Student
     {
         //Проба
+        //Proba2
         public Point start;
         public int location;
         public bool startMove = false;
