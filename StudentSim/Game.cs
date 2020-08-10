@@ -13,7 +13,7 @@ namespace StudentSim
 {
     public partial class GForm : Form
     {
-        private City city; //Проба гита
+        private City city; //Проба гита, проба
         public static Student student;
         public GForm()
         {
